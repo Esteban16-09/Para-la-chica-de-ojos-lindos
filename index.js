@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('GRACIAS POR SEGIR LUCHANDO 🥺');
+    alert('GRACIAS LUCHARE Y CUIDARE TU CORAZON 🥺');
 });
 
 const noBtn = document.querySelector('#noBtn');
